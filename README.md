@@ -96,24 +96,7 @@ about_me:
 
 <br/>
 
-## 📡 Live.Stats()
 
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=1809gaurav&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=5CE1E6&icon_color=C6FF00&text_color=c9d1d9"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1809gaurav&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=5CE1E6&text_color=c9d1d9"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=1809gaurav&theme=radical&hide_border=true&background=0d1117&ring=5CE1E6&fire=C6FF00&currStreakLabel=5CE1E6"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=1809gaurav&theme=radical&no-bg=true&row=1&column=7&margin-w=8&title=Hackathon,Contributor,Commits,Repositories,Followers,Stars,PullRequest"/>
-
-</div>
-
-<br/>
 
 ## 📈 Activity.Graph()
 
@@ -141,22 +124,7 @@ about_me:
 
 <br/>
 
-## 🤝 Top.Followers()
 
-<div align="center">
-
-<!--START_SECTION:top-followers-->
-<!--END_SECTION:top-followers-->
-
-</div>
-
-> ⚙️ **Setup note:** this table auto-populates from `.github/workflows/followers.yml` + `src/getTopFollowers.py` (also included in this package). It runs daily and on every push to `main`, and needs no secrets beyond the default `GITHUB_TOKEN`.
-
-<br/>
-
-<div align="center">
-
-![](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:5CE1E6&height=120&section=footer)
 
 **⭐ From building AI-powered health apps to AR learning tools — always curious, always shipping.**
 
