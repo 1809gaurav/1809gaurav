@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Gaurav Kaushik Banner"/>
+<img src="./banner.png" width="100%" alt="Gaurav Kaushik Banner"/>
 
 <br/>
 
