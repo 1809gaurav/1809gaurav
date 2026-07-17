@@ -107,15 +107,7 @@ about_me:
 </div>
 
 <br/>
-## 📊 GitHub Stats:
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1809gaurav&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&icon_color=00FF41&title_color=00FF41" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1809gaurav&theme=chartreuse-dark&hide_border=true&layout=compact&icon_color=00FF41&title_color=00FF41" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=1809gaurav&theme=chartreuse-dark&hide_border=true&ring=00FF41&fire=00FF41" />
-</p>
 ## 🐍 Contribution.Grid()
 
 <div align="center">
