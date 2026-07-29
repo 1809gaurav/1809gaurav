@@ -79,6 +79,12 @@ Represented these programs on campus, driving open-source and upskilling partici
 
 ---
 
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kaushik-16a39530a)
+[![Gmail](https://img.shields.io/badge/Gmail-C6FF00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:kaushikgaurav1809@gmail.com)
+
+---
 ## Tech Stack
 
 **Languages**
