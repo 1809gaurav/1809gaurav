@@ -12,9 +12,7 @@
 ![Followers](https://img.shields.io/github/followers/1809gaurav?label=FOLLOWERS&style=for-the-badge&color=C6FF00&labelColor=000000)
 ![Stars](https://img.shields.io/github/stars/1809gaurav?label=STARS&style=for-the-badge&color=5CE1E6&labelColor=000000)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kaushik-16a39530a)
-[![Email](https://img.shields.io/badge/Email-C6FF00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:kaushikgaurav1809@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=5CE1E6)](https://github.com/1809gaurav)
+
 
 </div>
 
