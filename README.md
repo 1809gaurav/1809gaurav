@@ -65,11 +65,11 @@ Represented these programs on campus, driving open-source and upskilling partici
 
 ## Achievements
 
-**4× Hackathon Winner** — Recognised across multiple competitive hackathons, including felicitation by the CM of Delhi.
+**5× Hackathon Winner** — Recognised across multiple competitive hackathons, including felicitation by the CM of Delhi.
 
 **2× Hackathon Organiser** — Planned and ran hackathons end-to-end, from problem statements to judging.
 
-**15× Hackathon Finalist** — Consistently reached the final rounds across a wide range of hackathons.
+**20× Hackathon Finalist** — Consistently reached the final rounds across a wide range of hackathons.
 
 **2× Microsoft Challenge Winner** — Recognised as a Microsoft Student Partner and challenge winner.
 
