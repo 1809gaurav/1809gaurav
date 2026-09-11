@@ -104,13 +104,6 @@ Represented these programs on campus, driving open-source and upskilling partici
 
 ## GitHub Analytics
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=1809gaurav&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=5CE1E6&text_color=ffffff&icon_color=C6FF00" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1809gaurav&layout=compact&hide_border=true&bg_color=0d1117&title_color=5CE1E6&text_color=ffffff&langs_count=8" />
-
-<br/>
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1809gaurav&theme=react-dark&bg_color=0d1117&color=5CE1E6&line=C6FF00&point=ffffff&hide_border=true"/>
 
 <br/>
 
