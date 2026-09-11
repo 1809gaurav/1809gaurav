@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src=<img width="2000" height="600" alt="Purple Abstract Graphic Design LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/9e7d3c1f-74c7-482e-b072-de62e3bbcc97" />
->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:8E2DE2&height=220&section=header&text=Gaurav%20Kaushik&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20Backend%20Engineer&descAlignY=58&descSize=20&descColor=FFFFFF" width="100%" alt="Gaurav Kaushik Banner"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5CE1E6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Full+Stack+AI%2FML+Engineer;4X+Hackathon+Winner+%7C+2X+Organiser;Mentor+%26+Project+Admin+%40+SSOC+2026)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Full+Stack+AI%2FML+Engineer;4X+Hackathon+Winner+%7C+2X+Organiser;Mentor+%26+Project+Admin+%40+SSOC+2026" alt="Typing SVG" />
 
 <br/>
 
