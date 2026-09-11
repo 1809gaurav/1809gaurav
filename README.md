@@ -8,12 +8,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=1809gaurav&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/1809gaurav?label=FOLLOWERS&style=for-the-badge&color=C6FF00&labelColor=000000)
-![Stars](https://img.shields.io/github/stars/1809gaurav?label=STARS&style=for-the-badge&color=5CE1E6&labelColor=000000)
-
-
-
 </div>
 
 ---
