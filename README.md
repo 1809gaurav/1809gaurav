@@ -20,12 +20,9 @@
 
 ## About Me
 
-I'm Gaurav, a final-year B.Tech Computer Science student and full-stack developer with a strong focus on data engineering and analytics. I work across the full stack — building responsive, production-ready web apps with the MERN stack — while also working on the data side with Python, SQL, and predictive modelling.
+I'm Gaurav, a final-year B.Tech CS student and full-stack developer focused on ai engineering and analytics — building with the MERN stack and Python/SQL for predictive modelling.
 
-I'm actively exploring AI/ML, blockchain, and Web3, and I enjoy mentoring peers as much as I enjoy shipping products. Beyond code, I care about building communities — whether that's running a technical society, organising hackathons, or mentoring open-source contributors.
-
-Open to internships and project-based roles in full-stack development, data analytics, and AI/ML.
-
+5x hackathon winner, 2x organiser, and an active mentor for open-source contributors. Open to internships and project-based roles in full-stack development, data analytics, and AI/ML.
 ---
 
 ## Experience
@@ -46,7 +43,7 @@ Lead strategic planning and execution for one of my college's most active techni
 Coordinated events and communication as part of the club's core leadership team.
 
 **Open Source Contributor — SafeYatri (Social Winter of Code)** · `Dec 2025 – Feb 2026`
-Contributed to SafeYatri, a smart tourist safety monitoring system with a blockchain-based digital ID, built on React, TypeScript, Vite, Tailwind, and Supabase.
+ A smart tourist safety monitoring system with a blockchain-based digital ID, built on React, TypeScript, Vite, Tailwind, and Supabase.
 
 **Campus Ambassador — GirlScript Summer of Code, LetsUpgrade, Internshala** · `2024 – 2026`
 Represented these programs on campus, driving open-source and upskilling participation among students.
